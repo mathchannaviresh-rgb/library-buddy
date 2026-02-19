@@ -134,7 +134,7 @@ const Index = () => {
         <div className="container mx-auto px-4 text-center">
           <div className="flex items-center justify-center gap-2 mb-2">
             <BookOpen className="w-5 h-5 text-amber-glow" />
-            <span className="font-display font-bold text-primary-foreground">LibraryMS</span>
+            <span className="font-display font-bold text-primary-foreground">Library Hub</span>
           </div>
           <p className="text-sidebar-foreground/60 text-sm">© 2024 University Library Management System</p>
         </div>

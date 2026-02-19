@@ -34,7 +34,7 @@ const Navbar = () => {
               <BookOpen className="w-5 h-5 text-navy-deep" />
             </div>
             <div className="hidden sm:block">
-              <p className="font-display text-base font-bold text-primary-foreground leading-tight">LibraryMS</p>
+              <p className="font-display text-base font-bold text-primary-foreground leading-tight">Library Hub</p>
               <p className="text-[10px] text-sidebar-foreground/60 leading-none">Management System</p>
             </div>
           </Link>
